@@ -1,7 +1,7 @@
 
 # SpringBoot
 
-###* Base
+### Base
 ##### Server & Client
 - Client : 서버로 요청하는 프로그램을 통칭
 - Server : 클라이언트의 요청을 받아 처리하는 주체
@@ -14,4 +14,7 @@
 - Port : IP를 통해 기기(서버)를 찾은 후 서비스를 구분하기 위한 번호
 
 ##### Library & FrameWork
-- Library : 
+- Library : 애플리케이션 개발에 필요한 기능인 클래스, 함수 등을 모아놓은 코드의 모음
+- FrameWork : 소프트웨어 개발을 수월하게 하기위한 소프트웨어 개발 환경
+
+* java annotation : 자바로 작성한 코드에 추가하는 표식, @temp와 같이 작성하며 메타데이터로 사용하는 경우가 많음
