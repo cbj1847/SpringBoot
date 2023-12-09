@@ -1,11 +1,7 @@
-<style>
-  # {
-    color : blue;
-  }
-</style>
-# <SpringBoot
 
-### Base
+# SpringBoot
+
+### *Base
 ##### Server & Client
 - Client : 서버로 요청하는 프로그램을 통칭
 - Server : 클라이언트의 요청을 받아 처리하는 주체
